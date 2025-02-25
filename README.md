@@ -6,3 +6,6 @@ SDE Sheet Questions and Codes.
 
 2.Pascal's Triangle
 ![WhatsApp Image 2025-02-25 at 22 33 56_2374260f](https://github.com/user-attachments/assets/5afc845c-84a2-4f4f-9dea-2836377f5add)
+
+3.nextPermutation
+![WhatsApp Image 2025-02-26 at 02 23 50_1de9a5c2](https://github.com/user-attachments/assets/5d8e005e-ecc0-495a-899e-459b1b95cba4)

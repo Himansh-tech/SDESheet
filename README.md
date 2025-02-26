@@ -13,3 +13,5 @@ SDE Sheet Questions and Codes.
 4.maximumSubarray
 ![WhatsApp Image 2025-02-27 at 00 38 12_ecadebb0](https://github.com/user-attachments/assets/615688de-2dda-4a3f-8e38-bffd22efd81f)
 
+5.sort012
+![WhatsApp Image 2025-02-27 at 02 02 22_9a3af801](https://github.com/user-attachments/assets/c9d469aa-0190-48b0-883c-1a6a935570b4)

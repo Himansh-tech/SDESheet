@@ -15,3 +15,6 @@ SDE Sheet Questions and Codes.
 
 5.sort012
 ![WhatsApp Image 2025-02-27 at 02 02 22_9a3af801](https://github.com/user-attachments/assets/c9d469aa-0190-48b0-883c-1a6a935570b4)
+
+6.bestTimeToBuyAndSellStock
+![WhatsApp Image 2025-02-27 at 03 33 30_03f2568a](https://github.com/user-attachments/assets/858496e5-bd47-44d1-b59c-dcc051de2d44)

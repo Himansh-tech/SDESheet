@@ -18,3 +18,7 @@ SDE Sheet Questions and Codes.
 
 6.bestTimeToBuyAndSellStock
 ![WhatsApp Image 2025-02-27 at 03 33 30_03f2568a](https://github.com/user-attachments/assets/858496e5-bd47-44d1-b59c-dcc051de2d44)
+
+7.rotateImage
+![WhatsApp Image 2025-02-28 at 02 13 20_24c9e90e](https://github.com/user-attachments/assets/fe7ae0d8-bc17-4d3d-9f94-c09823f8561c)
+

@@ -22,3 +22,5 @@ SDE Sheet Questions and Codes.
 7.rotateImage
 ![WhatsApp Image 2025-02-28 at 02 13 20_24c9e90e](https://github.com/user-attachments/assets/fe7ae0d8-bc17-4d3d-9f94-c09823f8561c)
 
+8.removeFromEndofLL
+![WhatsApp Image 2025-03-09 at 23 38 35_faf283c5](https://github.com/user-attachments/assets/7a3ab6cb-b3dd-43ef-95b8-370a370e7471)

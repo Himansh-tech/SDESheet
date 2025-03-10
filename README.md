@@ -27,3 +27,7 @@ SDE Sheet Questions and Codes.
 
 9.deleteNodeinLL
 ![WhatsApp Image 2025-03-10 at 14 35 57_30775307](https://github.com/user-attachments/assets/9b05070c-9308-498f-abfb-bc8a0397e54b)
+
+10.addTwoLinkedList
+![WhatsApp Image 2025-03-10 at 15 59 46_f774f230](https://github.com/user-attachments/assets/6b6efeb7-315d-4cc1-9dca-1ef6b55cfd9d)
+

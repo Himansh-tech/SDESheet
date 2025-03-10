@@ -24,3 +24,6 @@ SDE Sheet Questions and Codes.
 
 8.removeFromEndofLL
 ![WhatsApp Image 2025-03-09 at 23 38 35_faf283c5](https://github.com/user-attachments/assets/7a3ab6cb-b3dd-43ef-95b8-370a370e7471)
+
+9.deleteNodeinLL
+![WhatsApp Image 2025-03-10 at 14 35 57_30775307](https://github.com/user-attachments/assets/9b05070c-9308-498f-abfb-bc8a0397e54b)

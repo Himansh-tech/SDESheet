@@ -31,3 +31,11 @@ SDE Sheet Questions and Codes.
 10.addTwoLinkedList
 ![WhatsApp Image 2025-03-10 at 15 59 46_f774f230](https://github.com/user-attachments/assets/6b6efeb7-315d-4cc1-9dca-1ef6b55cfd9d)
 
+11. intersectionLinkedList
+![WhatsApp Image 2025-03-12 at 17 08 54_ffd669e5](https://github.com/user-attachments/assets/435be4f5-41a9-4bb8-ac2f-6b0c10a5a9c7)
+
+13. detectCycleLinkedList
+14. detectWhereCycleBegins
+15. palindromeLinkedList
+![WhatsApp Image 2025-03-12 at 17 08 53_f9419ced](https://github.com/user-attachments/assets/b2c3070b-4d46-427d-99d7-4abdbf15c288)
+
